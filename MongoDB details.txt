@@ -1,4 +1,4 @@
 Username-debdeep244
 Password-w2iOI8EutUiGPp5J
 
-mongodb+srv://debdeep244:<db_password>@cluster0.qnh3ozp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+Connection string: mongodb+srv://debdeep244:<db_password>@cluster0.qnh3ozp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
