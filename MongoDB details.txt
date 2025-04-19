@@ -2,3 +2,5 @@ Username-debdeep244
 Password-w2iOI8EutUiGPp5J
 
 Connection string: mongodb+srv://debdeep244:<db_password>@cluster0.qnh3ozp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+set "MONGODB_URL=mongodb+srv://debdeep244:w2iOI8EutUiGPp5J@cluster0.qnh3ozp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
