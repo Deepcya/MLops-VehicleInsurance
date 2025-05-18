@@ -180,12 +180,3 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ---
 
-## 📬 Contact
-
-For queries or collaboration opportunities:  
-📧 [Your Email]  
-🔗 [LinkedIn/GitHub Profile]
-
----
-
-Would you like me to turn this into a `.md` file for direct download or editing?
