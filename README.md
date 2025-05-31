@@ -1,6 +1,4 @@
-Here's a beautifully formatted and recruiter-friendly `README.md` file for your MLOps project:
 
----
 
 # 🚗 Vehicle Detection MLOps Project
 
