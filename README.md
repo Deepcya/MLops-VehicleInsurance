@@ -2,7 +2,7 @@
 
 # 🚗 Vehicle Detection MLOps Project
 
-Welcome to the **Vehicle Detection MLOps Project**, a full-stack, end-to-end machine learning project architected with MLOps best practices. This project showcases the integration of robust data pipelines, MongoDB, AWS services, CI/CD, Docker, and deployment on EC2—all production-ready and optimized for scaling.
+Welcome to the **Vehicle Detection MLOps Project**, a full-stack, end-to-end machine learning project architected with MLOps best practices. This project showcases the integration of robust data pipelines, MongoDB, AWS services, CI/CD, Docker, and deployment on EC2, all production-ready and optimized for scaling.
 
 ---
 
